@@ -2,4 +2,3 @@ queue_rules:
   - name: main
     autoqueue: true
     merge_method: squash
-    batch_size: 5
